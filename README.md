@@ -12,5 +12,7 @@
 * `apt update`
 * `apt upgrade`
 * `pkg install git` 
+* `pkg install wget`
 * `pkg install php`
-* 
+* `pkg install openssh`
+* `git clone 
