@@ -15,4 +15,6 @@
 * `pkg install wget`
 * `pkg install php`
 * `pkg install openssh`
-* `git clone 
+* `git clone https://github.com/NIHALHACKER/CamPhish`
+* `cd CamPhish`
+* `bash camphish.sh`
