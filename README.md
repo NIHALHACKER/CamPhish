@@ -18,3 +18,8 @@
 * `git clone https://github.com/NIHALHACKER/CamPhish`
 * `cd CamPhish`
 * `bash camphish.sh`
+
+
+# Screenshot
+
+![IMG_20210310_053917_618](https://user-images.githubusercontent.com/76738683/110555676-045ed000-8163-11eb-8a94-372a202c97f6.JPG)
